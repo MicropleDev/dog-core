@@ -2,7 +2,7 @@ name: dog_core
 description: A minimal MVVM helper library with LiveResult, StateObserver, and API response handling.
 version: 0.0.1
 environment:
-  sdk: ">=3.0.0 <4.0.0"
+  sdk: '>=3.4.1 <4.0.0'
 
 dependencies:
   flutter:
